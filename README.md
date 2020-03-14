@@ -15,5 +15,4 @@
 
 * [Telegram bot](https://github.com/bost/corona_cases)
 * [Johns Hopkins country list to ISO3166](https://github.com/AnthonyEbert/COVID-19_ISO-3166/blob/master/JohnsHopkins-to-A3.csv)
-* [git diffs International](https://anthonyebert.github.io/covid_diff/johns-hopkins.html)
-* [git diffs Italy](https://anthonyebert.github.io/covid_diff/protezione-civile.html)
+* [git diffs of important csvs](https://anthonyebert.github.io/covid_diff/)
