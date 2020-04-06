@@ -2,9 +2,10 @@
 
 ## Dashboards
 
-* [International](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-* [Italy](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
+* [International Johns-Hopkins](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+* [Italy Protezione Civile](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
 * [Germany](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
+* [International](https://danekasper.github.io/viz/covid)
 
 ## Datasources
 
